@@ -28,8 +28,7 @@ go run .
 Since a generated GIF could be big and take too long to be downloaded, you can compress it using amazing [`gifsicle`](https://github.com/kohler/gifsicle).
 To do that just run
 ```bash
-./bin/compress.sh
-```
+./bin/compress.sh...
 
 ### Creating custom animations
 To create a new animation you only need to do two things:
